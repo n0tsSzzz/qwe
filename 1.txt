@@ -1,0 +1,8 @@
+Arsenovich 300 5 G
+Argun 100 4 S
+Ozornin 100 4 S
+Golovin 0 0 N
+Eremin 289 4.5 G
+Noskov 289 4.5 G
+Anin 130 3.3 N
+
